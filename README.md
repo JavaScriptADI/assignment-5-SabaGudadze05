@@ -7,7 +7,7 @@
 4. Create a function that takes a string as an argument and greets the user. For example, if the function is called with "John," the function should return "Hello, John!"
 5. Create a function that takes a string as an argument and returns a string with the argument value in reverse. For example, if the function is called with the input "hello," the function should return "olleh." (Use a loop, not a method that does this in one step.)
 6. What is a default argument, and how does it work?
-7. What is the scope and lifetime of a variable?
+<!-- 7. What is the scope and lifetime of a variable? -->
 8. What is a return value?
 9. What is the return value of a function that does not have a return statement?
 10. Given the following function, find mistakes in the code and explain what the function is supposed to do:
